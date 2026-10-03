@@ -27,8 +27,6 @@ Atualmente estou aprofundando meus conhecimentos em **Python, bancos de dados, A
 
 ### Frameworks & Ferramentas
 
-![Reflex](https://img.shields.io/badge/Reflex-111111?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-111111?style=for-the-badge&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)
 
