@@ -97,6 +97,8 @@ Busco oportunidades que permitam **aprender, desenvolver habilidades práticas e
 ## 📫 Contato
 
 [![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ArtCurvelo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arthur-curvelo-927741386/)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arthurcurvelobonomo@gmail.com)
 
 ---
 
